@@ -1,2 +1,2 @@
 # ML
-The code of a  neural network implementation 
+The code of  neural network implementation 
